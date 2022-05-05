@@ -5,12 +5,6 @@
 */
 
 $(document).ready(function() {
-
-  /**
-   * Author: Heather Corey
-   * jQuery Simple Parallax Plugin
-   *
-   */
    
   (function($) {
    

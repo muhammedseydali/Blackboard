@@ -1207,6 +1207,14 @@ address i {
   font-size: 1.125em;
   font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 } 
+/* .address2 span {
+  line-height: 1.1;
+  margin-bottom: 3px;
+  color: #484f58;
+  font-size: 1.125em;
+  font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}  */
+
 
 .phone {
   line-height: 30px;
